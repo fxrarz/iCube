@@ -1,5 +1,5 @@
 # iCube
-<img src="Images/humanoid.jpg" align="right" height="30%" width="30%" />
+<img src="Images/Humanoid.jpg" align="right" height="30%" width="30%" />
 The iCube is inspired from iCub Humanoid Robot. This repository contains the software and hardware details of the iCube-mini. For further Information visit the website.
 
 
@@ -50,19 +50,19 @@ Available boards:
   - Arduino Uno R3 18 Servo motor controller with bluetooth (No Microcontroller is required)(Reommended)
   - Arduino Mega alone (Not Recommended)
 
-###Wire Management
+### Wire Management
 * [Wire Management Videos](https://ubuntu.com/download/desktop)
 
-###Power Supply
+### Power Supply
   - 7.4V LiPo Battery (Recommended)
   - Balanced Lipo Charger(Recommended)
   
-###Coding
+### Coding
 ```bash
 git clone https://github.com/fxrarz/iCube.git
 cd iCube/code
 ```
-###Demo
+### Demo
 * [Demonstration Video](https://ubuntu.com/download/desktop)
 
 ## License
