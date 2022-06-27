@@ -1,5 +1,5 @@
 # iCube
-<img src="images/humanoid.jpg" align="right" height="30%" width="30%" />
+<img src="Images/humanoid.jpg" align="right" height="30%" width="30%" />
 The iCube is inspired from iCub Humanoid Robot. This repository contains the software and hardware details of the iCube-mini. For further Information visit the website.
 
 
