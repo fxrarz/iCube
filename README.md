@@ -9,8 +9,8 @@ The iCube is inspired from iCub Humanoid Robot. This repository contains the sof
     - [Requirement](#requirement)
     - [Assembly](#assembly)
     - [Board](#board)
-    - [Wire Management](#wiremanagement)
-    - [Power Supply](#powersupply)
+    - [Wire Management](#wire-management)
+    - [Power Supply](#power-supply)
     - [Coding](#coding)
     - [Demo](#demo)
 - [License](#license)
@@ -35,6 +35,7 @@ Aluminum parts required:
 Electronic parts required:
   - 1 Micro Controller
   - 17 servo motor driver
+  - 17 High torque metal gear servo motor (Recommended)
   - 17 Servo extension cable
   - Wire management tools (Zip Tie, Nylon sleeve)
   - Multimeter
@@ -47,7 +48,7 @@ Electronic parts required:
 ### Board
 Available boards:
   - PCA9685 12-Bit PWM/Servo Controller (Motor driver only. Additional microcontroller is required.)
-  - Arduino Uno R3 18 Servo motor controller with bluetooth (No Microcontroller is required)(Reommended)
+  - Arduino Uno R3 18 Servo motor controller with bluetooth (No Microcontroller is required)(Recommended)
   - Arduino Mega alone (Not Recommended)
 
 ### Wire Management
