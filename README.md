@@ -1,5 +1,5 @@
 # iCube
-<img src="Images/Humanoid.jpg" align="right" height="30%" width="30%" />
+<img src="Assets/assembly/Humanoid.jpg" align="right" height="30%" width="30%" />
 The iCube is inspired from iCub Humanoid Robot. This repository contains the software and hardware details of the iCube-mini. For further Information visit the website.
 
 
@@ -52,7 +52,7 @@ Available boards:
   - Arduino Mega alone (Not Recommended)
 
 ### Wire Management
-* [Wire Management Videos](https://ubuntu.com/download/desktop)
+* [Wire Management Videos](https://www.youtube.com/embed/UsmOGdB1qRQ)
 
 ### Power Supply
   - 7.4V LiPo Battery (Recommended)
@@ -64,7 +64,7 @@ git clone https://github.com/fxrarz/iCube.git
 cd iCube/code
 ```
 ### Demo
-* [Demonstration Video](https://ubuntu.com/download/desktop)
+* [Demonstration Video](https://www.youtube.com/embed/UsmOGdB1qRQ)
 
 ## License
 The iCube Humanoid Robot is licensed under the terms of the GPL Open Source
